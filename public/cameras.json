@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Canon EOS R6",
+    "description": "Kamera mirrorless profesional dengan sensor full-frame.",
+    "price": "300000 / hari",
+    "image": "https://via.placeholder.com/400x300"
+  },
+  {
+    "id": 2,
+    "name": "Sony Alpha A7 III",
+    "description": "Kamera mirrorless serbaguna dengan performa luar biasa.",
+    "price": "250000 / hari",
+    "image": "https://via.placeholder.com/400x300"
+  },
+  {
+    "id": 3,
+    "name": "Fujifilm X-T4",
+    "description": "Kamera APS-C dengan desain klasik dan fitur modern.",
+    "price": "200000 / hari",
+    "image": "https://via.placeholder.com/400x300"
+  }
+]
